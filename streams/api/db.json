@@ -1,0 +1,50 @@
+{
+  "streams": [
+    {
+      "title": "my streeem",
+      "description": "alsjfl;sdfja;sdlfj;lasdfj;sdfasfsf",
+      "id": 1
+    },
+    {
+      "title": "hahah",
+      "description": "jahahhaahhahahhahahah",
+      "id": 2
+    },
+    {
+      "title": "hahah",
+      "description": "jahahhaahhahahhahahah",
+      "id": 3
+    },
+    {
+      "title": "hahah",
+      "description": "jahahhaahhahahhahahah",
+      "id": 4
+    },
+    {
+      "title": "hahah",
+      "description": "jahahhaahhahahhahahah",
+      "id": 5
+    },
+    {
+      "description": "this is  new stream",
+      "title": "new stream",
+      "id": 6
+    },
+    {
+      "title": "wali",
+      "description": "this is the test stram",
+      "id": 7
+    },
+    {
+      "title": "wali",
+      "description": "this is the test stram",
+      "id": 8
+    },
+    {
+      "title": "new stream by wali edited",
+      "description": "new lsjfls;hgaslfjsl;afjs;lfjsal;dfjsd;lfjasl;fj;asdlfjsdl;fjas'dfasdf",
+      "userId": "116823473537895165905",
+      "id": 9
+    }
+  ]
+}
